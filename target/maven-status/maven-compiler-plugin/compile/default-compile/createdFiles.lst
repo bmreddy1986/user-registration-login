@@ -1,0 +1,10 @@
+jbr\spring\boot\AppConfig.class
+jbr\spring\boot\service\UserService.class
+jbr\spring\boot\model\Login.class
+jbr\spring\boot\UserRegistrationLoginApplication.class
+jbr\spring\boot\controller\RegistrationController.class
+jbr\spring\boot\dao\UserRepository.class
+jbr\spring\boot\model\User.class
+jbr\spring\boot\service\UserServiceImpl.class
+jbr\spring\boot\controller\LoginController.class
+jbr\spring\boot\controller\HomeController.class
